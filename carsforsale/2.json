@@ -1,0 +1,680 @@
+<script type="application/ld+json"> {
+  "@context": "http://schema.org",
+  "@graph": [
+    {
+      "@type": "Vehicle",
+      "image": "https://cdn05.carsforsale.com/23d82196d6cb3bc245bb2ff86bc6984d/800x600/2021-acura-rdx-sh-awd-w-a-spec-4dr-suv-package.jpg",
+      "url": "https://www.carsforsale.com/vehicle/details/104281628",
+      "name": "2021 Acura RDX",
+      "description": "Apex Blue Pearl 2021 Acura RDX A-Spec Package SH-AWD AWD 10-Speed Automatic 2.0L 16V DOHC **ONE OWNER**, **ACCIDENT FREE CARFAX**, **AWD**, *NAVIGATION/GPS*, **LOCAL TRADE**, **SUNROOF/MOONROOF**, **LOW MILES**, RDX A-Spec SH-AWD, 4D Sport Utility, ...",
+      "brand": {
+        "@type": "Thing",
+        "name": "Acura"
+      },
+      "bodyType": "SUV",
+      "fuelEfficiency": "21/26 mpg",
+      "fuelType": "Gasoline",
+      "vehicleModelDate": "2021",
+      "mileageFromOdometer": "14180",
+      "vehicleEngine": {
+        "@type": "EngineSpecification",
+        "name": "2.0L I4"
+      },
+      "model": "RDX",
+      "color": "Apex Blue Pearl",
+      "sku": "PC11985",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "USD",
+        "price": "36988",
+        "itemCondition": "http://schema.org/UsedCondition",
+        "availability": "http://schema.org/InStock",
+        "seller": {
+          "@type": "AutoDealer",
+          "name": "MCGRATH ACURA OF WESTMONT - MC GRATH ACURA OF WESTMONT",
+          "image": "https://cdn03.carsforsale.com/content/images/carsforsale-logo.png",
+          "currenciesAccepted": "USD",
+          "openingHours": "",
+          "address": "400 E OGDEN AVE",
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "41.81107",
+            "longitude": "-87.96559"
+          },
+          "telephone": "+16306860056",
+          "url": "https://www.carsforsale.com/used-car-dealer/mcgrath-acura-of-westmont-mc-grath-acura-of-westmont-westmont-il-d217222"
+        }
+      }
+    },
+    {
+      "@type": "Vehicle",
+      "image": "https://cdn05.carsforsale.com/00a281bbfe4a9b8000df4f8e8c985eddf2/800x600/2022-acura-mdx-sh-awd-w-a-spec-4dr-suv-package.jpg",
+      "url": "https://www.carsforsale.com/vehicle/details/104369728",
+      "name": "2022 Acura MDX",
+      "description": "Our One Owner No Accident Reported 2022 Acura MDX A-Spec SH-AWD delivers sporty capability and a dynamic Apex Blue Pearl design. Motivated by a 3.5 Liter V6 generating 290hp tethered to a paddle-shifted 10 Speed Automatic transmission. This trail-fr...",
+      "brand": {
+        "@type": "Thing",
+        "name": "Acura"
+      },
+      "bodyType": "SUV",
+      "fuelEfficiency": "19/25 mpg",
+      "fuelType": "Gasoline",
+      "vehicleModelDate": "2022",
+      "mileageFromOdometer": "20538",
+      "vehicleEngine": {
+        "@type": "EngineSpecification",
+        "name": "3.5L V6"
+      },
+      "model": "MDX",
+      "color": "Apex Blue Pearl",
+      "sku": "3327",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "USD",
+        "price": "44900",
+        "itemCondition": "http://schema.org/UsedCondition",
+        "availability": "http://schema.org/InStock",
+        "seller": {
+          "@type": "AutoDealer",
+          "name": "Landen Motors",
+          "image": "https://cdn03.carsforsale.com/content/images/carsforsale-logo.png",
+          "currenciesAccepted": "USD",
+          "openingHours": "Mo 10:00-19:00 Tu 10:00-19:00 We 10:00-19:00 Th 10:00-19:00 Fr 10:00-19:00 Sa 10:00-19:00",
+          "address": "3260 Montgomery Rd",
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "39.30501",
+            "longitude": "-84.28189"
+          },
+          "telephone": "+15134405315",
+          "url": "https://www.carsforsale.com/used-car-dealer/landen-motors-loveland-oh-d722077"
+        }
+      }
+    },
+    {
+      "@type": "Vehicle",
+      "image": "https://cdn05.carsforsale.com/0cc221bc08424993571f0b501ff4e6a6/800x600/2021-acura-tlx-sh-awd-w-tech-4dr-sedan-w-technology-package.jpg",
+      "url": "https://www.carsforsale.com/vehicle/details/104335627",
+      "name": "2021 Acura TLX",
+      "description": "Just arrived is this technologically cutting-edge, ONE-OWNER, OFF-LEASE, NONSMOKER, SUPER-HANDLING ALL-WHEEL DRIVE 2021 Acura TLX with a Technology package!  This compact luxury sedan boasts relaxed ride quality, a strong engine, upscale...",
+      "brand": {
+        "@type": "Thing",
+        "name": "Acura"
+      },
+      "bodyType": "Sedan",
+      "fuelEfficiency": "21/29 mpg",
+      "fuelType": "Gasoline",
+      "vehicleModelDate": "2021",
+      "mileageFromOdometer": "18806",
+      "vehicleEngine": {
+        "@type": "EngineSpecification",
+        "name": "2.0L I4"
+      },
+      "model": "TLX",
+      "color": "Modern Steel Metallic",
+      "sku": "47504",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "USD",
+        "price": "28995",
+        "itemCondition": "http://schema.org/UsedCondition",
+        "availability": "http://schema.org/InStock",
+        "seller": {
+          "@type": "AutoDealer",
+          "name": "Automotive Avenues LLC",
+          "image": "https://cdn03.carsforsale.com/content/images/carsforsale-logo.png",
+          "currenciesAccepted": "USD",
+          "openingHours": "Mo 09:00-19:30 Tu 09:00-19:30 We 09:00-19:30 Th 09:00-19:30 Fr 09:00-19:30 Sa 09:00-17:30",
+          "address": "5011 Rt 33/Rt 34",
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.21949",
+            "longitude": "-74.13042"
+          },
+          "telephone": "+18482060219",
+          "url": "https://www.carsforsale.com/used-car-dealer/automotive-avenues-llc-farmingdale-nj-d654424"
+        }
+      }
+    },
+    {
+      "@type": "Vehicle",
+      "image": "https://cdn05.carsforsale.com/3e842dc5d8f3548d7fec0c58d94ac0db/800x600/2017-acura-nsx-sh-awd-sport-hybrid-2dr-coupe.jpg",
+      "url": "https://www.carsforsale.com/vehicle/details/104334130",
+      "name": "2017 Acura NSX",
+      "description": "Freeman Motor Company is a 3 time winner of Oregon\u0027s QUALITY Dealer of the YEAR. You can connect with us by calling 503-310-5555.Call now or visit our website to confirm availability by chat! This 2017 Acura NSX has a 130R White exterior and Orchid ...",
+      "brand": {
+        "@type": "Thing",
+        "name": "Acura"
+      },
+      "bodyType": "Coupe",
+      "fuelEfficiency": "21/22 mpg",
+      "fuelType": "Gas/Electric Hybrid",
+      "vehicleModelDate": "2017",
+      "mileageFromOdometer": "4007",
+      "vehicleEngine": {
+        "@type": "EngineSpecification",
+        "name": "3.5L V6"
+      },
+      "model": "NSX",
+      "color": "130R White",
+      "sku": "PCAC0332",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "USD",
+        "price": "146995",
+        "itemCondition": "http://schema.org/UsedCondition",
+        "availability": "http://schema.org/InStock",
+        "seller": {
+          "@type": "AutoDealer",
+          "name": "Freeman Motor Company",
+          "image": "https://cdn03.carsforsale.com/content/images/carsforsale-logo.png",
+          "currenciesAccepted": "USD",
+          "openingHours": "Mo 10:00-18:00 Tu 10:00-18:00 We 10:00-18:00 Th 10:00-18:00 Fr 10:00-18:00 Sa 10:00-18:00",
+          "address": "7524 S MACADAM AVE",
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "45.46928",
+            "longitude": "-122.6712"
+          },
+          "telephone": "+15037664883",
+          "url": "https://www.carsforsale.com/used-car-dealer/freeman-motor-company-portland-or-d744358"
+        }
+      }
+    },
+    {
+      "@type": "Vehicle",
+      "image": "https://cdn05.carsforsale.com/260cbfde08ef6f81b26f6be01f1830c4/800x600/2017-acura-nsx-sh-awd-sport-hybrid-2dr-coupe.jpg",
+      "url": "https://www.carsforsale.com/vehicle/details/104351318",
+      "name": "2017 Acura NSX",
+      "description": "2017 ACURA NSX WITH CCBs. CARBON EXTERIOR SPORT PACKAGE. ONLY 5,735 MILES. CLEAN CARFAX / AUTOCHECK. Red may be the hottest color on an NSX, but we\u0027ll let you be the judge. Featuring every carbon exterior option, carbon ceramic brakes, and an Alcant...",
+      "brand": {
+        "@type": "Thing",
+        "name": "Acura"
+      },
+      "bodyType": "Coupe",
+      "fuelEfficiency": "21/22 mpg",
+      "fuelType": "Gas/Electric Hybrid",
+      "vehicleModelDate": "2017",
+      "mileageFromOdometer": "5735",
+      "vehicleEngine": {
+        "@type": "EngineSpecification",
+        "name": "3.5L V6"
+      },
+      "model": "NSX",
+      "color": "Red",
+      "sku": "000494",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "USD",
+        "price": "144000",
+        "itemCondition": "http://schema.org/UsedCondition",
+        "availability": "http://schema.org/InStock",
+        "seller": {
+          "@type": "AutoDealer",
+          "name": "Exotics Hunter",
+          "image": "https://cdn03.carsforsale.com/content/images/carsforsale-logo.png",
+          "currenciesAccepted": "USD",
+          "openingHours": "",
+          "address": "1001 Clint Moore Rd Ste 101",
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "26.40879",
+            "longitude": "-80.10713"
+          },
+          "telephone": "+13303026062",
+          "url": "https://www.carsforsale.com/used-car-dealer/exotics-hunter-boca-raton-fl-d743586"
+        }
+      }
+    },
+    {
+      "@type": "Vehicle",
+      "image": "https://cdn05.carsforsale.com/00d3d37093c3f908b14fcedf07fa4d7e82/800x600/2020-acura-mdx-sh-awd-4dr-suv.jpg",
+      "url": "https://www.carsforsale.com/vehicle/details/104321837",
+      "name": "2020 Acura MDX",
+      "description": "No description available.",
+      "brand": {
+        "@type": "Thing",
+        "name": "Acura"
+      },
+      "bodyType": "SUV",
+      "fuelEfficiency": "19/26 mpg",
+      "fuelType": "Gasoline",
+      "vehicleModelDate": "2020",
+      "mileageFromOdometer": "16835",
+      "vehicleEngine": {
+        "@type": "EngineSpecification",
+        "name": "3.5L V6"
+      },
+      "model": "MDX",
+      "color": "White",
+      "sku": "P050598_CT",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "USD",
+        "price": "34995",
+        "itemCondition": "http://schema.org/UsedCondition",
+        "availability": "http://schema.org/InStock",
+        "seller": {
+          "@type": "AutoDealer",
+          "name": "405 Motors",
+          "image": "https://cdn03.carsforsale.com/content/images/carsforsale-logo.png",
+          "currenciesAccepted": "USD",
+          "openingHours": "Su 11:00-18:00 Mo 10:00-18:00 Tu 10:00-18:00 We 10:00-18:00 Th 10:00-18:00 Fr 10:00-18:00 Sa 10:00-18:00",
+          "address": "24115 Snohomish Woodinville Rd",
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "47.7774",
+            "longitude": "-122.1505"
+          },
+          "telephone": "+14252509398",
+          "url": "https://www.carsforsale.com/used-car-dealer/405-motors-woodinville-wa-d729492"
+        }
+      }
+    },
+    {
+      "@type": "Vehicle",
+      "image": "https://cdn05.carsforsale.com/0c78c2b2f61b8c301f436a9bd03ce8c3/800x600/2020-acura-mdx-sh-awd-w-advance-4dr-suv-package.jpg",
+      "url": "https://www.carsforsale.com/vehicle/details/104249810",
+      "name": "2020 Acura MDX",
+      "description": "2020 ACURA MDX AWD ADVANCED PACKAGE\r\nAbsolutely Immaculate Interior and Exterior\r\nNewer Tires and Brakes\r\nNavi, Heated Cooled Seats, 360 Camera, Remote Start \u0026 MUCH MORE\r\n3 Row Seating with 2nd Row Captain Chairs\r\nBranded title - small accident righ...",
+      "brand": {
+        "@type": "Thing",
+        "name": "Acura"
+      },
+      "bodyType": "SUV",
+      "fuelEfficiency": "/ mpg",
+      "fuelType": "Gasoline",
+      "vehicleModelDate": "2020",
+      "mileageFromOdometer": "27428",
+      "vehicleEngine": {
+        "@type": "EngineSpecification",
+        "name": "3.5L V6"
+      },
+      "model": "MDX",
+      "color": "Gray",
+      "sku": "2788",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "USD",
+        "price": "32900",
+        "itemCondition": "http://schema.org/UsedCondition",
+        "availability": "http://schema.org/InStock",
+        "seller": {
+          "@type": "AutoDealer",
+          "name": "Albo Auto Sales",
+          "image": "https://cdn03.carsforsale.com/content/images/carsforsale-logo.png",
+          "currenciesAccepted": "USD",
+          "openingHours": "",
+          "address": "505 W Colfax St",
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "42.11621",
+            "longitude": "-88.05495"
+          },
+          "telephone": "+18478071754",
+          "url": "https://www.carsforsale.com/used-car-dealer/albo-auto-sales-palatine-il-d437445"
+        }
+      }
+    },
+    {
+      "@type": "Vehicle",
+      "image": "https://cdn05.carsforsale.com/009df5b6498df759e6582ada131dd84d62/800x600/2012-acura-tsx-base-4dr-sedan.jpg",
+      "url": "https://www.carsforsale.com/vehicle/details/104387680",
+      "name": "2012 Acura TSX",
+      "description": "2012 Acura TSX Base.***************REBUILT/SALVAGE TITLE***************FULLY REPAIRED. EXCELLENT RUNNING CONDITION.   AUTOMATIC TRANSMISSION. CLEAN INTERIOR. CALL OR TEXT 980-306-2023. HABLAMOS ESPAÃ‘OL...WE MAKE THE CAR BUYING EXPERIENCE AS SMOOTH,...",
+      "brand": {
+        "@type": "Thing",
+        "name": "Acura"
+      },
+      "bodyType": "Sedan",
+      "fuelEfficiency": "22/31 mpg",
+      "fuelType": "Gasoline",
+      "vehicleModelDate": "2012",
+      "mileageFromOdometer": "77024",
+      "vehicleEngine": {
+        "@type": "EngineSpecification",
+        "name": "2.4L I4"
+      },
+      "model": "TSX",
+      "color": "Silver",
+      "sku": "A-02012",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "USD",
+        "price": "8995",
+        "itemCondition": "http://schema.org/UsedCondition",
+        "availability": "http://schema.org/InStock",
+        "seller": {
+          "@type": "AutoDealer",
+          "name": "77 Auto Group",
+          "image": "https://cdn03.carsforsale.com/content/images/carsforsale-logo.png",
+          "currenciesAccepted": "USD",
+          "openingHours": "Mo 09:00-18:00 Tu 09:00-18:00 We 09:00-18:00 Th 09:00-18:00 Fr 09:00-18:00 Sa 10:00-15:00",
+          "address": "1904 N Main St",
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "35.52097",
+            "longitude": "-80.61399"
+          },
+          "telephone": "+19803685277",
+          "url": "https://www.carsforsale.com/used-car-dealer/77-auto-group-kannapolis-nc-d745322"
+        }
+      }
+    },
+    {
+      "@type": "Vehicle",
+      "image": "https://cdn05.carsforsale.com/00eca6e4c2d730294258e28c79cd2846a4/800x600/2022-acura-rdx-w-a-spec-4dr-suv-package.jpg",
+      "url": "https://www.carsforsale.com/vehicle/details/104202087",
+      "name": "2022 Acura RDX",
+      "description": "RDX A-Spec, 2.0L 16V DOHC, FWD, Red, Ebony Leather, Air Conditioning, Apple CarPlay/Android Auto, Auto-dimming Rear-View mirror, Delay-off headlights, Exterior Parking Camera Rear, Front Bucket Seats, Front fog lights, Fully automatic headlights, Il...",
+      "brand": {
+        "@type": "Thing",
+        "name": "Acura"
+      },
+      "bodyType": "SUV",
+      "fuelEfficiency": "22/27 mpg",
+      "fuelType": "Gasoline",
+      "vehicleModelDate": "2022",
+      "mileageFromOdometer": "8592",
+      "vehicleEngine": {
+        "@type": "EngineSpecification",
+        "name": "2.0L I4"
+      },
+      "model": "RDX",
+      "color": "Red",
+      "sku": "71287",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "USD",
+        "price": "31900",
+        "itemCondition": "http://schema.org/UsedCondition",
+        "availability": "http://schema.org/InStock",
+        "seller": {
+          "@type": "AutoDealer",
+          "name": "AutoSavvy Houston Southwest",
+          "image": "https://cdn03.carsforsale.com/content/images/carsforsale-logo.png",
+          "currenciesAccepted": "USD",
+          "openingHours": "",
+          "address": "7620 Bellaire Blvd",
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "29.70587",
+            "longitude": "-95.51986"
+          },
+          "telephone": "+18329243855",
+          "url": "https://www.carsforsale.com/used-car-dealer/autosavvy-houston-southwest-houston-tx-d742035"
+        }
+      }
+    },
+    {
+      "@type": "Vehicle",
+      "image": "https://cdn05.carsforsale.com/6cbb863e498b7cbed087cfcafc2306c2/800x600/2022-acura-mdx-sh-awd-w-tech-4dr-suv-w-technology-package.jpg",
+      "url": "https://www.carsforsale.com/vehicle/details/104199240",
+      "name": "2022 Acura MDX",
+      "description": "2022 Acura MDX Technology with 23,758 miles! NAVIGATION, BACKUP CAMERA, HEATED FRONT LEATHER SEATS, DUAL CLIMATE, REAR CLIMATE, MOONROOF, PARKING AID, BLINDSPOT MONITOR, LANE DEPARTURE/ASSIST, FORWARD COLLISION, 3RD 7 PASSENGER SEATING, POWER LIFTGA...",
+      "brand": {
+        "@type": "Thing",
+        "name": "Acura"
+      },
+      "bodyType": "SUV",
+      "fuelEfficiency": "19/25 mpg",
+      "fuelType": "Gasoline",
+      "vehicleModelDate": "2022",
+      "mileageFromOdometer": "23758",
+      "vehicleEngine": {
+        "@type": "EngineSpecification",
+        "name": "3.5L V6"
+      },
+      "model": "MDX",
+      "color": "Majestic Black Pearl",
+      "sku": "NL012918A",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "USD",
+        "price": "36500",
+        "itemCondition": "http://schema.org/UsedCondition",
+        "availability": "http://schema.org/InStock",
+        "seller": {
+          "@type": "AutoDealer",
+          "name": "Autolocity Motors",
+          "image": "https://cdn03.carsforsale.com/content/images/carsforsale-logo.png",
+          "currenciesAccepted": "USD",
+          "openingHours": "Mo 09:00-19:00 Tu 09:00-19:00 We 09:00-19:00 Th 09:00-19:00 Fr 09:00-19:00 Sa 09:00-19:00",
+          "address": "3330 WALL AVE",
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "41.20277",
+            "longitude": "-111.9784"
+          },
+          "telephone": "+18013932999",
+          "url": "https://www.carsforsale.com/used-car-dealer/autolocity-motors-ogden-ut-d727383"
+        }
+      }
+    },
+    {
+      "@type": "Vehicle",
+      "image": "https://cdn05.carsforsale.com/009a29babe6770a1872d9cbe3c28c53ef5/800x600/2021-acura-rdx-w-tech-4dr-suv-w-technology-package.jpg",
+      "url": "https://www.carsforsale.com/vehicle/details/104143158",
+      "name": "2021 Acura RDX",
+      "description": "Recent Arrival! Now offering this 2021 Acura RDX Technology Package in Platinum White Pearl is available for immediate test drive: CALL US at 954-785-7100!!! BLIND-SPOT MONITORING, Backup Camera, CLEAN CARFAX, RDX Technology Package, 4D Sport Utilit...",
+      "brand": {
+        "@type": "Thing",
+        "name": "Acura"
+      },
+      "bodyType": "SUV",
+      "fuelEfficiency": "22/28 mpg",
+      "fuelType": "Gasoline",
+      "vehicleModelDate": "2021",
+      "mileageFromOdometer": "13041",
+      "vehicleEngine": {
+        "@type": "EngineSpecification",
+        "name": "2.0L I4"
+      },
+      "model": "RDX",
+      "color": "Platinum White Pearl",
+      "sku": "RL028041A",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "USD",
+        "price": "30000",
+        "itemCondition": "http://schema.org/UsedCondition",
+        "availability": "http://schema.org/InStock",
+        "seller": {
+          "@type": "AutoDealer",
+          "name": "Phil Smith Acura",
+          "image": "https://cdn03.carsforsale.com/content/images/carsforsale-logo.png",
+          "currenciesAccepted": "USD",
+          "openingHours": "",
+          "address": "940 N FEDERAL HWY",
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "26.24152",
+            "longitude": "-80.10165"
+          },
+          "telephone": "+19549535976",
+          "url": "https://www.carsforsale.com/used-car-dealer/phil-smith-acura-pompano-beach-fl-d731101"
+        }
+      }
+    },
+    {
+      "@type": "Vehicle",
+      "image": "https://cdn05.carsforsale.com/36113120ef826fb50aadaef4b61fd625/800x600/2021-acura-ilx-premium-and-a-spec-packages.jpg",
+      "url": "https://www.carsforsale.com/vehicle/details/104360991",
+      "name": "2021 Acura ILX",
+      "description": "Recent Arrival! Now offering this 2021 Acura ILX Premium and A-SPEC Packages in Performance Red Pearl is available for immediate test drive: CALL US at 954-785-7100!!! BLIND-SPOT MONITORING, Backup Camera, ONE OWNER, ILX Premium and A-SPEC Packages,...",
+      "brand": {
+        "@type": "Thing",
+        "name": "Acura"
+      },
+      "bodyType": "Sedan",
+      "fuelEfficiency": "24/34 mpg",
+      "fuelType": "Gasoline",
+      "vehicleModelDate": "2021",
+      "mileageFromOdometer": "14568",
+      "vehicleEngine": {
+        "@type": "EngineSpecification",
+        "name": "2.4L I4"
+      },
+      "model": "ILX",
+      "color": "Performance Red Pearl",
+      "sku": "RA027536A",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "USD",
+        "price": "22884",
+        "itemCondition": "http://schema.org/UsedCondition",
+        "availability": "http://schema.org/InStock",
+        "seller": {
+          "@type": "AutoDealer",
+          "name": "Phil Smith Acura",
+          "image": "https://cdn03.carsforsale.com/content/images/carsforsale-logo.png",
+          "currenciesAccepted": "USD",
+          "openingHours": "",
+          "address": "940 N FEDERAL HWY",
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "26.24152",
+            "longitude": "-80.10165"
+          },
+          "telephone": "+19549535976",
+          "url": "https://www.carsforsale.com/used-car-dealer/phil-smith-acura-pompano-beach-fl-d731101"
+        }
+      }
+    },
+    {
+      "@type": "Vehicle",
+      "image": "https://cdn05.carsforsale.com/00c895eadde80d9a7b7a4bb8a1a8b2402c/800x600/2021-acura-tlx-sh-awd-4dr-sedan.jpg",
+      "url": "https://www.carsforsale.com/vehicle/details/104140933",
+      "name": "2021 Acura TLX",
+      "description": "VEHICLE OVERVIEWIntroducing the 2021 Acura TLX Base, a luxury sedan that seamlessly blends performance, sophistication, and advanced technology. Its bold and athletic exterior design is highlighted by sharp lines and Acura\u0027s signature Diamond Pentag...",
+      "brand": {
+        "@type": "Thing",
+        "name": "Acura"
+      },
+      "bodyType": "Sedan",
+      "fuelEfficiency": "21/29 mpg",
+      "fuelType": "Gasoline",
+      "vehicleModelDate": "2021",
+      "mileageFromOdometer": "16198",
+      "vehicleEngine": {
+        "@type": "EngineSpecification",
+        "name": "2.0L I4"
+      },
+      "model": "TLX",
+      "color": "Black",
+      "sku": "000977",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "USD",
+        "price": "27999",
+        "itemCondition": "http://schema.org/UsedCondition",
+        "availability": "http://schema.org/InStock",
+        "seller": {
+          "@type": "AutoDealer",
+          "name": "Car Vision of Trooper",
+          "image": "https://cdn03.carsforsale.com/content/images/carsforsale-logo.png",
+          "currenciesAccepted": "USD",
+          "openingHours": "Mo 10:00-20:00 Tu 10:00-20:00 We 10:00-20:00 Th 10:00-20:00 Fr 10:00-20:00 Sa 09:00-17:00",
+          "address": "2626 W Ridge Pike",
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.14307",
+            "longitude": "-75.3916"
+          },
+          "telephone": "+16108798233",
+          "url": "https://www.carsforsale.com/used-car-dealer/car-vision-of-trooper-norristown-pa-d239819"
+        }
+      }
+    },
+    {
+      "@type": "Vehicle",
+      "image": "https://cdn05.carsforsale.com/3db9fbc1aeff58526a851f7f2bcffe71/800x600/2012-acura-mdx-sh-awd-w-advance-4dr-suv-package.jpg",
+      "url": "https://www.carsforsale.com/vehicle/details/104367293",
+      "name": "2012 Acura MDX",
+      "description": "we start as low as $500 DOWN and $69 a week as a payment , we accept all kind of ID ( DL, ID, PASSPORTS, INT.DL ) , we accept all type of income (W2, SELF EMPLOYED, SSI, SSD, CHILD SUPPORT, UNEMPLOYMENT, And All other type of income :)\r\n1)-CLEAN TIT...",
+      "brand": {
+        "@type": "Thing",
+        "name": "Acura"
+      },
+      "bodyType": "SUV",
+      "fuelEfficiency": "16/21 mpg",
+      "fuelType": "Gasoline",
+      "vehicleModelDate": "2012",
+      "mileageFromOdometer": "69613",
+      "vehicleEngine": {
+        "@type": "EngineSpecification",
+        "name": "3.7L V6"
+      },
+      "model": "MDX",
+      "color": "Gray",
+      "sku": "544948",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "USD",
+        "price": "13995",
+        "itemCondition": "http://schema.org/UsedCondition",
+        "availability": "http://schema.org/InStock",
+        "seller": {
+          "@type": "AutoDealer",
+          "name": "General Auto Group",
+          "image": "https://cdn03.carsforsale.com/content/images/carsforsale-logo.png",
+          "currenciesAccepted": "USD",
+          "openingHours": "Mo 10:00-19:00 Tu 10:00-19:00 We 10:00-19:00 Th 10:00-19:00 Fr 10:00-19:00 Sa 10:00-19:00",
+          "address": "1001 Chancelor Ave",
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.72219",
+            "longitude": "-74.24958"
+          },
+          "telephone": "+16465128420",
+          "url": "https://www.carsforsale.com/used-car-dealer/general-auto-group-irvington-nj-d736747"
+        }
+      }
+    },
+    {
+      "@type": "Vehicle",
+      "image": "https://cdn05.carsforsale.com/008c972a361bad20df789a792e50a477de/800x600/2020-acura-mdx-sh-awd-4dr-suv.jpg",
+      "url": "https://www.carsforsale.com/vehicle/details/104184287",
+      "name": "2020 Acura MDX",
+      "description": "2020 Acura MDX 3.5L SH-AWD Majestic Black Pearl AWD CARFAX One-Owner. Odometer is 17293 miles below market average! 19/26 City/Highway MPG *www.parkaveacura.com*, Ebony w/Premium Leather-Trimmed Interior.#1 Rated Acura Dealer in NJ...",
+      "brand": {
+        "@type": "Thing",
+        "name": "Acura"
+      },
+      "bodyType": "SUV",
+      "fuelEfficiency": "19/26 mpg",
+      "fuelType": "Gasoline",
+      "vehicleModelDate": "2020",
+      "mileageFromOdometer": "19374",
+      "vehicleEngine": {
+        "@type": "EngineSpecification",
+        "name": "3.5L V6"
+      },
+      "model": "MDX",
+      "color": "Majestic Black Pearl",
+      "sku": "C2554",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "USD",
+        "price": "31500",
+        "itemCondition": "http://schema.org/UsedCondition",
+        "availability": "http://schema.org/InStock",
+        "seller": {
+          "@type": "AutoDealer",
+          "name": "PARK AVENUE ACURA",
+          "image": "https://cdn03.carsforsale.com/content/images/carsforsale-logo.png",
+          "currenciesAccepted": "USD",
+          "openingHours": "Mo 09:00-19:00 Tu 09:00-19:00 We 09:00-19:00 Th 09:00-19:00 Fr 09:00-18:00 Sa 09:00-17:00",
+          "address": "171 STATE RT 17 S",
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.90427",
+            "longitude": "-74.07227"
+          },
+          "telephone": "+12012926009",
+          "url": "https://www.carsforsale.com/used-car-dealer/park-avenue-acura-rochelle-park-nj-d741027"
+        }
+      }
+    }
+  ]
+} </script>

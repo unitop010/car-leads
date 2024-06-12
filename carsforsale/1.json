@@ -1,0 +1,925 @@
+[
+  {
+    "globalInventoryId": 104335221,
+    "detailsUrl": "/vehicle/details/104335221",
+    "soldDealerDetailsUrl": "/used-car-dealer/super-autos-hialeah-hialeah-fl-d722151/inventory/details/104335221",
+    "sourceId": 3,
+    "sourceExternalId": 78333768,
+    "locationUrlString": "/cars-for-sale-in-hialeah-fl-L112012",
+    "sourceExternalUserId": 1018053,
+    "responsivePrimaryImage": [
+      {
+        "width": "800",
+        "url": "https://cdn05.carsforsale.com/00edce0d7b56dccc08bb6e50c5c1361285/800x600/2021-acura-ilx-w-premium-4dr-sedan-package.jpg"
+      },
+      {
+        "width": "480",
+        "url": "https://cdn05.carsforsale.com/00edce0d7b56dccc08bb6e50c5c1361285/480x360/2021-acura-ilx-w-premium-4dr-sedan-package.jpg"
+      },
+      {
+        "width": "1280",
+        "url": "https://cdn05.carsforsale.com/00edce0d7b56dccc08bb6e50c5c1361285/1280x960/2021-acura-ilx-w-premium-4dr-sedan-package.jpg"
+      }
+    ],
+    "altText": "2021 Acura ILX for sale in Hialeah, FL",
+    "forSaleBy": "Super Autos Hialeah",
+    "formattedDistance": "",
+    "make": "Acura",
+    "model": "ILX",
+    "modelYear": 2021,
+    "trim": "4dr Sedan w/Premium Package",
+    "estimatedMonthlyPayment": 321,
+    "price": 21599,
+    "maxLeadDistance": "",
+    "condition": "Used",
+    "mileage": "10,077",
+    "avgPriceDiffAmount": -446,
+    "avgMileageDiffAmount": -36564,
+    "engine": "2.4L I4",
+    "drivetrain": "FWD",
+    "descriptionText": "Introducing the
+sophisticated and luxurious 2021 Acura ILX Premium Pkg Sedan 4D. With its exquisite design, advanced amenities, and
+exhilarating performance, this sedan sets the standard for elegance and refinement. Prepare to indulge in a driving
+e...", "daysListed": "3", "hasVideo": true, "dealer": { "globalUserId": 722151, "displayName": "Super Autos Hialeah","dealerProfileUrl": "/used-car-dealer/super-autos-hialeah-hialeah-fl-d722151",
+    "addressSlug": "4015+W+16th+Ave+++Hialeah+FL+33012",
+    "latitude": "25.85829",
+    "longitude": "-80.31415",
+    "phoneNumber": "7866554549",
+    "address": "4015 W 16th Ave ",
+    "city": "Hialeah",
+    "state": "FL",
+    "zip": "33012",
+    "hasTextLeads": false,
+    "hasPhoneLeads": true
+  },
+  "inventoryFlags": {
+    "hideSpecialPrice": false,
+    "hideAveragePrice": false,
+    "hidePriceHistory": false,
+    "showPriceDisclaimer": false
+  },
+  "showVhr": true
+},
+{
+  "globalInventoryId": 104368522,
+  "detailsUrl": "/vehicle/details/104368522",
+  "soldDealerDetailsUrl": "/used-car-dealer/big-o-auto-llc-omaha-ne-d710206/inventory/details/104368522",
+  "sourceId": 3,
+  "sourceExternalId": 78366994,
+  "locationUrlString": "/cars-for-sale-in-omaha-ne-L119900",
+  "sourceExternalUserId": 1011736,
+  "responsivePrimaryImage": [
+    {
+      "width": "800",
+      "url": "https://cdn05.carsforsale.com/00c8042d895103da83339014467bbb89dc/800x600/2021-acura-rdx-sh-awd-4dr-suv.jpg"
+    },
+    {
+      "width": "480",
+      "url": "https://cdn05.carsforsale.com/00c8042d895103da83339014467bbb89dc/480x360/2021-acura-rdx-sh-awd-4dr-suv.jpg"
+    },
+    {
+      "width": "1280",
+      "url": "https://cdn05.carsforsale.com/00c8042d895103da83339014467bbb89dc/1280x960/2021-acura-rdx-sh-awd-4dr-suv.jpg"
+    }
+  ],
+  "altText": "2021 Acura RDX for sale in Omaha, NE",
+  "forSaleBy": "Big O Auto LLC",
+  "formattedDistance": "",
+  "make": "Acura",
+  "model": "RDX",
+  "modelYear": 2021,
+  "trim": "SH-AWD 4dr SUV",
+  "estimatedMonthlyPayment": 371,
+  "price": 24950,
+  "maxLeadDistance": "",
+  "condition": "Used",
+  "mileage": "17,000",
+  "avgPriceDiffAmount": -4579,
+  "avgMileageDiffAmount": -34611,
+  "engine": "2.0L I4 Turbocharger",
+  "drivetrain": "AWD",
+  "descriptionText": "Ask us about our Special Financing
+with low APR and Zero Money Down with qualifying credit. Bring your last two pay stubs, Social Security Number, and a
+Valid Drivers License. We have relationships with lenders to help you get approved even if you h...", "daysListed": "1","badges": [
+    "Virtual Financing",
+    "Online Paperwork"
+  ],
+  "hasVideo": false,
+  "dealer": {
+    "globalUserId": 710206,
+    "displayName": "Big O Auto LLC",
+    "dealerProfileUrl": "/used-car-dealer/big-o-auto-llc-omaha-ne-d710206",
+    "addressSlug": "6503+L+ST++Omaha+NE+68117",
+    "latitude": "41.21164",
+    "longitude": "-96.01359",
+    "phoneNumber": "4023822475",
+    "address": "6503 L ST ",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68117",
+    "hasTextLeads": false,
+    "hasPhoneLeads": true
+  },
+  "inventoryFlags": {
+    "hideSpecialPrice": false,
+    "hideAveragePrice": false,
+    "hidePriceHistory": false,
+    "showPriceDisclaimer": false
+  },
+  "showVhr": true
+},
+{
+  "globalInventoryId": 104213167,
+  "detailsUrl": "/vehicle/details/104213167",
+  "soldDealerDetailsUrl": "/used-car-dealer/fast-and-furious-auto-sales-newark-nj-d744056/inventory/details/104213167",
+  "sourceId": 3,
+  "sourceExternalId": 78219165,
+  "locationUrlString": "/cars-for-sale-in-newark-nj-L118937",
+  "sourceExternalUserId": 1039933,
+  "responsivePrimaryImage": [
+    {
+      "width": "800",
+      "url": "https://cdn05.carsforsale.com/2059513ae9573aad0a915c9abf384282/800x600/2021-acura-ilx-w-premium-4dr-sedan-package.jpg"
+    },
+    {
+      "width": "480",
+      "url": "https://cdn05.carsforsale.com/2059513ae9573aad0a915c9abf384282/480x360/2021-acura-ilx-w-premium-4dr-sedan-package.jpg"
+    },
+    {
+      "width": "1280",
+      "url": "https://cdn05.carsforsale.com/2059513ae9573aad0a915c9abf384282/1280x960/2021-acura-ilx-w-premium-4dr-sedan-package.jpg"
+    }
+  ],
+  "altText": "2021 Acura ILX for sale in Newark, NJ",
+  "forSaleBy": "FAST AND FURIOUS AUTO SALES",
+  "formattedDistance": "",
+  "make": "Acura",
+  "model": "ILX",
+  "modelYear": 2021,
+  "trim": "4dr Sedan w/Premium Package",
+  "estimatedMonthlyPayment": 290,
+  "price": 19495,
+  "maxLeadDistance": "",
+  "condition": "Used",
+  "mileage": "14,846",
+  "avgPriceDiffAmount": -2550,
+  "avgMileageDiffAmount": -31795,
+  "engine": "2.4L I4",
+  "drivetrain": "FWD",
+  "descriptionText": " Welcome to Fast And Furious Auto Sales. The biggest Buy Here Pay Here dealership in NJ, NY, DE , MD, CT and PA Where everyone is approved regardless of their credit history. So; Bad credit is approved; Good credit
+approved; No credit approved; fir...", "daysListed": "7", "badges": ["Video Walkarounds", "Driveway Delivery", "Online
+Paperwork"], "hasVideo": false, "dealer": { "globalUserId": 744056, "displayName": "FAST AND FURIOUS AUTO SALES","dealerProfileUrl": "/used-car-dealer/fast-and-furious-auto-sales-newark-nj-d744056",
+  "addressSlug": "607+SPRINGFIELD+AVE+Newark+NJ+07103",
+  "latitude": "40.7305",
+  "longitude": "-74.20873",
+  "phoneNumber": "9733545697",
+  "address": "607 SPRINGFIELD AVE",
+  "city": "Newark",
+  "state": "NJ",
+  "zip": "07103",
+  "hasTextLeads": false,
+  "hasPhoneLeads": true
+},
+"inventoryFlags": {
+  "hideSpecialPrice": false,
+  "hideAveragePrice": false,
+  "hidePriceHistory": false,
+  "showPriceDisclaimer": false
+},
+"showVhr": true
+},
+{
+"globalInventoryId": 104388866,
+"detailsUrl": "/vehicle/details/104388866",
+"soldDealerDetailsUrl": "/used-car-dealer/cityside-subaru-belmont-ma-d739206/inventory/details/104388866",
+"sourceId": 3,
+"sourceExternalId": 78387202,
+"locationUrlString": "/cars-for-sale-in-belmont-ma-L101964",
+"sourceExternalUserId": 1035083,
+"responsivePrimaryImage": [
+  {
+    "width": "800",
+    "url": "https://cdn05.carsforsale.com/14b4063c6aa8db61b1045332cbc656/800x600/2020-acura-rdx-sh-awd-4dr-suv.jpg"
+  },
+  {
+    "width": "480",
+    "url": "https://cdn05.carsforsale.com/14b4063c6aa8db61b1045332cbc656/480x360/2020-acura-rdx-sh-awd-4dr-suv.jpg"
+  },
+  {
+    "width": "1280",
+    "url": "https://cdn05.carsforsale.com/14b4063c6aa8db61b1045332cbc656/1280x960/2020-acura-rdx-sh-awd-4dr-suv.jpg"
+  }
+],
+"altText": "2020 Acura RDX for sale in Belmont, MA",
+"forSaleBy": "CITYSIDE SUBARU",
+"formattedDistance": "",
+"make": "Acura",
+"model": "RDX",
+"modelYear": 2020,
+"trim": "SH-AWD 4dr SUV",
+"estimatedMonthlyPayment": 440,
+"price": 29573,
+"maxLeadDistance": "",
+"condition": "Used",
+"mileage": "20,009",
+"avgPriceDiffAmount": 1090,
+"avgMileageDiffAmount": -57902,
+"engine": "2.0L I4",
+"drivetrain": "AWD",
+"descriptionText": "Highlights of this 2020 Acura RDX include: ONLY20,
+008 Miles! $500 below J.D. Power Retail! FUEL EFFICIENT 27 MPG Hwy/21 MPG City! Moonroof, Heated Seats, Power
+Liftgate, All Wheel Drive, Aluminum Wheels, Turbo Charged, Panoramic Roof. S...", "daysListed": "0", "hasVideo": false,"dealer": {
+  "globalUserId": 739206,
+  "displayName": "CITYSIDE SUBARU",
+  "dealerProfileUrl": "/used-car-dealer/cityside-subaru-belmont-ma-d739206",
+  "addressSlug": "790+PLEASANT+ST+Belmont+MA+02478",
+  "latitude": "42.39167",
+  "longitude": "-71.18399",
+  "phoneNumber": "7813860576",
+  "address": "790 PLEASANT ST",
+  "city": "Belmont",
+  "state": "MA",
+  "zip": "02478",
+  "hasTextLeads": false,
+  "hasPhoneLeads": true
+},
+"inventoryFlags": {
+  "hideSpecialPrice": false,
+  "hideAveragePrice": false,
+  "hidePriceHistory": false,
+  "showPriceDisclaimer": false
+},
+"showVhr": true
+},
+{
+"globalInventoryId": 104199923,
+"detailsUrl": "/vehicle/details/104199923",
+"soldDealerDetailsUrl": "/used-car-dealer/phil-smith-acura-pompano-beach-fl-d731101/inventory/details/104199923",
+"sourceId": 3,
+"sourceExternalId": 78206204,
+"locationUrlString": "/cars-for-sale-in-pompano-beach-fl-L121479",
+"sourceExternalUserId": 1026985,
+"responsivePrimaryImage": [
+  {
+    "width": "800",
+    "url": "https://cdn05.carsforsale.com/00f341ea7cde735139495b7adaf5639e20/800x600/2022-acura-mdx-sh-awd-w-a-spec-4dr-suv-package.jpg"
+  },
+  {
+    "width": "480",
+    "url": "https://cdn05.carsforsale.com/00f341ea7cde735139495b7adaf5639e20/480x360/2022-acura-mdx-sh-awd-w-a-spec-4dr-suv-package.jpg"
+  },
+  {
+    "width": "1280",
+    "url": "https://cdn05.carsforsale.com/00f341ea7cde735139495b7adaf5639e20/1280x960/2022-acura-mdx-sh-awd-w-a-spec-4dr-suv-package.jpg"
+  }
+],
+"altText": "2022 Acura MDX for sale in Pompano Beach, FL",
+"forSaleBy": "Phil Smith Acura",
+"formattedDistance": "",
+"make": "Acura",
+"model": "MDX",
+"modelYear": 2022,
+"trim": "SH-AWD 4dr SUV w/A-SPEC Package",
+"estimatedMonthlyPayment": 609,
+"price": 41000,
+"maxLeadDistance": "",
+"condition": "Used",
+"mileage": "13,615",
+"avgPriceDiffAmount": -1347,
+"avgMileageDiffAmount": -36603,
+"engine": "3.5L V6",
+"drivetrain": "AWD",
+"descriptionText": "Recent Arrival! Now offering this 2022 Acura MDX A-Spec in Performance Red Pearl is available for
+immediate test drive: CALL US at 954-785-7100!!! Black Leather. CARFAX One-Owner. Clean CARFAX. Priced below KBB Fair
+Purchase Price!...", "daysListed": "7", "hasVideo": false, "dealer": { "globalUserId": 731101, "displayName": "Phil
+Smith Acura", "dealerProfileUrl": "/used-car-dealer/phil-smith-acura-pompano-beach-fl-d731101", "addressSlug":"940+N+FEDERAL+HWY+Pompano+Beach+FL+33062",
+"latitude": "26.24152",
+"longitude": "-80.10165",
+"phoneNumber": "9549535976",
+"address": "940 N FEDERAL HWY",
+"city": "Pompano Beach",
+"state": "FL",
+"zip": "33062",
+"hasTextLeads": false,
+"hasPhoneLeads": true
+},
+"inventoryFlags": {
+"hideSpecialPrice": false,
+"hideAveragePrice": false,
+"hidePriceHistory": false,
+"showPriceDisclaimer": false
+},
+"showVhr": true
+},
+{
+"globalInventoryId": 104378545,
+"detailsUrl": "/vehicle/details/104378545",
+"soldDealerDetailsUrl": "/used-car-dealer/phil-smith-acura-pompano-beach-fl-d731101/inventory/details/104378545",
+"sourceId": 3,
+"sourceExternalId": 78376858,
+"locationUrlString": "/cars-for-sale-in-pompano-beach-fl-L121479",
+"sourceExternalUserId": 1026985,
+"responsivePrimaryImage": [
+{
+  "width": "800",
+  "url": "https://cdn05.carsforsale.com/00f96409460bc0e1746acde06a643ff8b8/800x600/2021-acura-rdx-w-tech-4dr-suv-w-technology-package.jpg"
+},
+{
+  "width": "480",
+  "url": "https://cdn05.carsforsale.com/00f96409460bc0e1746acde06a643ff8b8/480x360/2021-acura-rdx-w-tech-4dr-suv-w-technology-package.jpg"
+},
+{
+  "width": "1280",
+  "url": "https://cdn05.carsforsale.com/00f96409460bc0e1746acde06a643ff8b8/1280x960/2021-acura-rdx-w-tech-4dr-suv-w-technology-package.jpg"
+}
+],
+"altText": "2021 Acura RDX for sale in Pompano Beach, FL",
+"forSaleBy": "Phil Smith Acura",
+"formattedDistance": "",
+"make": "Acura",
+"model": "RDX",
+"modelYear": 2021,
+"trim": "4dr SUV w/Technology Package",
+"estimatedMonthlyPayment": 416,
+"specialPrice": 28000,
+"price": 33000,
+"maxLeadDistance": "",
+"condition": "Used",
+"mileage": "30,320",
+"avgPriceDiffAmount": -2081,
+"avgMileageDiffAmount": -26388,
+"engine": "2.0L I4",
+"drivetrain": "FWD",
+"descriptionText": "Recent Arrival! Now offering this 2021 Acura RDX Technology Package in Platinum White Pearl is
+available for immediate test drive: CALL US at 954-785-7100!!! BLIND-SPOT MONITORING, Backup Camera, ONE OWNER, RDX
+Technology Package,
+4D Sport Utility, ...", "daysListed": "0", "hasVideo": false, "dealer": { "globalUserId": 731101,"displayName": "Phil Smith Acura",
+"dealerProfileUrl": "/used-car-dealer/phil-smith-acura-pompano-beach-fl-d731101",
+"addressSlug": "940+N+FEDERAL+HWY+Pompano+Beach+FL+33062",
+"latitude": "26.24152",
+"longitude": "-80.10165",
+"phoneNumber": "9549535976",
+"address": "940 N FEDERAL HWY",
+"city": "Pompano Beach",
+"state": "FL",
+"zip": "33062",
+"hasTextLeads": false,
+"hasPhoneLeads": true
+},
+"inventoryFlags": {
+"hideSpecialPrice": false,
+"hideAveragePrice": false,
+"hidePriceHistory": false,
+"showPriceDisclaimer": false
+},
+"showVhr": true
+},
+{
+"globalInventoryId": 104354375,
+"detailsUrl": "/vehicle/details/104354375",
+"soldDealerDetailsUrl": "/used-car-dealer/springfield-acura-springfield-nj-d219995/inventory/details/104354375",
+"sourceId": 3,
+"sourceExternalId": 78353027,
+"locationUrlString": "/cars-for-sale-in-springfield-nj-L125378",
+"sourceExternalUserId": 328834,
+"responsivePrimaryImage": [
+{
+"width": "800",
+"url": "https://cdn05.carsforsale.com/0095e804cbc4a423d2b3750014469ed68b/800x600/2021-acura-rdx-sh-awd-w-tech-4dr-suv-w-technology-package.jpg"
+},
+{
+"width": "480",
+"url": "https://cdn05.carsforsale.com/0095e804cbc4a423d2b3750014469ed68b/480x360/2021-acura-rdx-sh-awd-w-tech-4dr-suv-w-technology-package.jpg"
+},
+{
+"width": "1280",
+"url": "https://cdn05.carsforsale.com/0095e804cbc4a423d2b3750014469ed68b/1280x960/2021-acura-rdx-sh-awd-w-tech-4dr-suv-w-technology-package.jpg"
+}
+],
+"altText": "2021 Acura RDX for sale in Springfield, NJ",
+"forSaleBy": "SPRINGFIELD ACURA",
+"formattedDistance": "",
+"make": "Acura",
+"model": "RDX",
+"modelYear": 2021,
+"trim": "SH-AWD 4dr SUV w/Technology Package",
+"estimatedMonthlyPayment": 505,
+"price": 33995,
+"maxLeadDistance": "",
+"condition": "Manufacturer Certified",
+"mileage": "14,906",
+"avgPriceDiffAmount": 2810,
+"avgMileageDiffAmount": -40275,
+"engine": "2.0L I4",
+"drivetrain": "AWD",
+"descriptionText": "Platinum White Pearl exterior and Espresso interior, w/Technology Package trim. Heated Leather
+Seats, NAV, Sunroof, Alloy Wheels, Turbo, All Wheel Drive, Panoramic Roof. KEY FEATURES INCLUDELeather Seats,
+Navigation, Sunroof, Panor...", "daysListed": "2", "hasVideo": false, "dealer": { "globalUserId": 219995, "displayName":"SPRINGFIELD ACURA",
+"dealerProfileUrl": "/used-car-dealer/springfield-acura-springfield-nj-d219995",
+"addressSlug": "243+US+HIGHWAY+22+Springfield+NJ+07081",
+"latitude": "40.68469",
+"longitude": "-74.32209",
+"phoneNumber": "9737219621",
+"address": "243 US HIGHWAY 22",
+"city": "Springfield",
+"state": "NJ",
+"zip": "07081",
+"hasTextLeads": false,
+"hasPhoneLeads": true
+},
+"inventoryFlags": {
+"hideSpecialPrice": false,
+"hideAveragePrice": false,
+"hidePriceHistory": false,
+"showPriceDisclaimer": false
+},
+"showVhr": true
+},
+{
+"globalInventoryId": 104262417,
+"detailsUrl": "/vehicle/details/104262417",
+"soldDealerDetailsUrl": "/used-car-dealer/autosavvy-fort-worth-fort-worth-tx-d742032/inventory/details/104262417",
+"sourceId": 3,
+"sourceExternalId": 78263807,
+"locationUrlString": "/cars-for-sale-in-fort-worth-tx-L109417",
+"sourceExternalUserId": 1037909,
+"responsivePrimaryImage": [
+{
+"width": "800",
+"url": "https://cdn05.carsforsale.com/4090efe1b24d076ae230261c567f4124/800x600/2021-acura-rdx-w-tech-4dr-suv-w-technology-package.jpg"
+},
+{
+"width": "480",
+"url": "https://cdn05.carsforsale.com/4090efe1b24d076ae230261c567f4124/480x360/2021-acura-rdx-w-tech-4dr-suv-w-technology-package.jpg"
+},
+{
+"width": "1280",
+"url": "https://cdn05.carsforsale.com/4090efe1b24d076ae230261c567f4124/1280x960/2021-acura-rdx-w-tech-4dr-suv-w-technology-package.jpg"
+}
+],
+"altText": "2021 Acura RDX for sale in Fort Worth, TX",
+"forSaleBy": "AutoSavvy Fort Worth",
+"formattedDistance": "",
+"make": "Acura",
+"model": "RDX",
+"modelYear": 2021,
+"trim": "4dr SUV w/Technology Package",
+"estimatedMonthlyPayment": 402,
+"specialPrice": 27000,
+"price": 32925,
+"maxLeadDistance": "",
+"condition": "Used",
+"mileage": "24,269",
+"avgPriceDiffAmount": -3081,
+"avgMileageDiffAmount": -32439,
+"engine": "2.0L I4",
+"drivetrain": "FWD",
+"descriptionText": "Apple CarPlay/Android Auto, Auto High-beam Headlights, Automatic temperature control,
+Exterior Parking Camera Rear, Heated Front Sport Seats, Lane departure: Lane Keeping Assist System (LKAS) active, Memory
+seat, Navigation system: Acura Navigation ...", "daysListed": "5", "hasVideo": false, "dealer": { "globalUserId":742032,
+"displayName": "AutoSavvy Fort Worth",
+"dealerProfileUrl": "/used-car-dealer/autosavvy-fort-worth-fort-worth-tx-d742032",
+"addressSlug": "3001+NE+Loop+820+Fort+Worth+TX+76137",
+"latitude": "32.84155",
+"longitude": "-97.30741",
+"phoneNumber": "8337780373",
+"address": "3001 NE Loop 820",
+"city": "Fort Worth",
+"state": "TX",
+"zip": "76137",
+"hasTextLeads": false,
+"hasPhoneLeads": true
+},
+"inventoryFlags": {
+"hideSpecialPrice": false,
+"hideAveragePrice": false,
+"hidePriceHistory": false,
+"showPriceDisclaimer": false
+},
+"showVhr": true
+},
+{
+"globalInventoryId": 104281628,
+"detailsUrl": "/vehicle/details/104281628",
+"soldDealerDetailsUrl": "/used-car-dealer/mcgrath-acura-of-westmont-mc-grath-acura-of-westmont-westmont-il-d217222/inventory/details/104281628",
+"sourceId": 3,
+"sourceExternalId": 78282626,
+"locationUrlString": "/cars-for-sale-in-westmont-il-L128748",
+"sourceExternalUserId": 324087,
+"responsivePrimaryImage": [
+{
+"width": "800",
+"url": "https://cdn05.carsforsale.com/23d82196d6cb3bc245bb2ff86bc6984d/800x600/2021-acura-rdx-sh-awd-w-a-spec-4dr-suv-package.jpg"
+},
+{
+"width": "480",
+"url": "https://cdn05.carsforsale.com/23d82196d6cb3bc245bb2ff86bc6984d/480x360/2021-acura-rdx-sh-awd-w-a-spec-4dr-suv-package.jpg"
+},
+{
+"width": "1280",
+"url": "https://cdn05.carsforsale.com/23d82196d6cb3bc245bb2ff86bc6984d/1280x960/2021-acura-rdx-sh-awd-w-a-spec-4dr-suv-package.jpg"
+}
+],
+"altText": "2021 Acura RDX for sale in Westmont, IL",
+"forSaleBy": "MCGRATH ACURA OF WESTMONT - MC GRATH ACURA OF
+WESTMONT", "formattedDistance": "", "make": "Acura", "model": "RDX", "modelYear": 2021, "trim": "SH-AWD 4dr SUV w/A-SPEC
+Package", "estimatedMonthlyPayment": 550, "price": 36988, "maxLeadDistance": "", "condition": "Used", "mileage":"14,180",
+"avgPriceDiffAmount": 4021,
+"avgMileageDiffAmount": -41754,
+"engine": "2.0L I4",
+"drivetrain": "AWD",
+"descriptionText": "Apex Blue Pearl 2021 Acura RDX A-Spec Package SH-AWD AWD 10-Speed Automatic 2.0L 16V DOHC **ONE
+OWNER**, **ACCIDENT FREE CARFAX**, **AWD**, *NAVIGATION/GPS*, **LOCAL TRADE**, **SUNROOF/MOONROOF**, **LOW MILES**, RDX
+A-Spec SH-AWD,
+4D Sport Utility, ...", "daysListed": "4", "hasVideo": false, "dealer": { "globalUserId": 217222,"displayName": "MCGRATH ACURA OF WESTMONT - MC GRATH ACURA OF WESTMONT",
+"dealerProfileUrl": "/used-car-dealer/mcgrath-acura-of-westmont-mc-grath-acura-of-westmont-westmont-il-d217222",
+"addressSlug": "400+E+OGDEN+AVE+Westmont+IL+60559",
+"latitude": "41.81107",
+"longitude": "-87.96559",
+"phoneNumber": "6306860056",
+"address": "400 E OGDEN AVE",
+"city": "Westmont",
+"state": "IL",
+"zip": "60559",
+"hasTextLeads": false,
+"hasPhoneLeads": true
+},
+"inventoryFlags": {
+"hideSpecialPrice": true,
+"hideAveragePrice": true,
+"hidePriceHistory": true,
+"showPriceDisclaimer": true
+},
+"showVhr": true
+},
+{
+"globalInventoryId": 104229918,
+"detailsUrl": "/vehicle/details/104229918",
+"soldDealerDetailsUrl": "/used-car-dealer/drive-world-woodbury-ny-d743862/inventory/details/104229918",
+"sourceId": 3,
+"sourceExternalId": 78235224,
+"locationUrlString": "/cars-for-sale-in-woodbury-ny-L129502",
+"sourceExternalUserId": 1039739,
+"responsivePrimaryImage": [
+{
+"width": "800",
+"url": "https://cdn05.carsforsale.com/4a1a3b4063704176eb98efd9ac66a269/800x600/2020-acura-mdx-sh-awd-w-tech-w-a-spec-4dr-suv-w-technology-and-a.jpg"
+},
+{
+"width": "480",
+"url": "https://cdn05.carsforsale.com/4a1a3b4063704176eb98efd9ac66a269/480x360/2020-acura-mdx-sh-awd-w-tech-w-a-spec-4dr-suv-w-technology-and-a.jpg"
+},
+{
+"width": "1280",
+"url": "https://cdn05.carsforsale.com/4a1a3b4063704176eb98efd9ac66a269/1280x960/2020-acura-mdx-sh-awd-w-tech-w-a-spec-4dr-suv-w-technology-and-a.jpg"
+}
+],
+"altText": "2020 Acura MDX for sale in Woodbury, NY",
+"forSaleBy": "Drive World",
+"formattedDistance": "",
+"make": "Acura",
+"model": "MDX",
+"modelYear": 2020,
+"trim": "SH-AWD 4dr SUV w/Technology and A-SPEC Package",
+"estimatedMonthlyPayment": 461,
+"price": 30995,
+"maxLeadDistance": "",
+"condition": "Used",
+"mileage": "24,873",
+"avgPriceDiffAmount": -1549,
+"avgMileageDiffAmount": -41581,
+"engine": "3.5L V6",
+"drivetrain": "AWD",
+"descriptionText": "Welcome to Drive World! We offer premium luxury vehicles in a boutique setting so your car buying
+experience is second to none. All our vehicles come with the Drive World promise, we'll always be there to assist you.
+Come in for a test drive today, ...", "daysListed": "6", "hasVideo": false, "dealer": { "globalUserId": 743862,"displayName": "Drive World",
+"dealerProfileUrl": "/used-car-dealer/drive-world-woodbury-ny-d743862",
+"addressSlug": "760+Jericho+Turnpike+Woodbury+NY+11797",
+"latitude": "40.81647",
+"longitude": "-73.46401",
+"phoneNumber": "5162713670",
+"address": "760 Jericho Turnpike",
+"city": "Woodbury",
+"state": "NY",
+"zip": "11797",
+"hasTextLeads": false,
+"hasPhoneLeads": true
+},
+"inventoryFlags": {
+"hideSpecialPrice": false,
+"hideAveragePrice": false,
+"hidePriceHistory": false,
+"showPriceDisclaimer": false
+},
+"showVhr": true
+},
+{
+"globalInventoryId": 104365048,
+"detailsUrl": "/vehicle/details/104365048",
+"soldDealerDetailsUrl": "/used-car-dealer/springfield-acura-springfield-nj-d219995/inventory/details/104365048",
+"sourceId": 3,
+"sourceExternalId": 78363691,
+"locationUrlString": "/cars-for-sale-in-springfield-nj-L125378",
+"sourceExternalUserId": 328834,
+"responsivePrimaryImage": [
+{
+"width": "800",
+"url": "https://cdn05.carsforsale.com/56f2c10bc434b9083dbe52e95021d1e4/800x600/2022-acura-mdx-sh-awd-w-tech-4dr-suv-w-technology-package.jpg"
+},
+{
+"width": "480",
+"url": "https://cdn05.carsforsale.com/56f2c10bc434b9083dbe52e95021d1e4/480x360/2022-acura-mdx-sh-awd-w-tech-4dr-suv-w-technology-package.jpg"
+},
+{
+"width": "1280",
+"url": "https://cdn05.carsforsale.com/56f2c10bc434b9083dbe52e95021d1e4/1280x960/2022-acura-mdx-sh-awd-w-tech-4dr-suv-w-technology-package.jpg"
+}
+],
+"altText": "2022 Acura MDX for sale in Springfield, NJ",
+"forSaleBy": "SPRINGFIELD ACURA",
+"formattedDistance": "",
+"make": "Acura",
+"model": "MDX",
+"modelYear": 2022,
+"trim": "SH-AWD 4dr SUV w/Technology Package",
+"estimatedMonthlyPayment": 593,
+"specialPrice": 39878,
+"price": 40500,
+"maxLeadDistance": "",
+"condition": "Manufacturer
+Certified", "mileage": "24,
+321", "avgPriceDiffAmount": -1093, "avgMileageDiffAmount": -25975, "engine": "3.5L V6","drivetrain": "AWD",
+"descriptionText": "W/Technology Package trim, Platinum White Pearl exterior and Espresso interior.
+$3,
+500 below J.D. Power Retail! Heated Leather Seats, Navigation,
+3rd Row Seat, Alloy Wheels, All Wheel Drive, Moonroof,
+Panoramic Roof. KEY FEATURES INCLUDE...", "daysListed": "1", "hasVideo": false, "dealer": { "globalUserId": 219995,"displayName": "SPRINGFIELD ACURA",
+"dealerProfileUrl": "/used-car-dealer/springfield-acura-springfield-nj-d219995",
+"addressSlug": "243+US+HIGHWAY+22+Springfield+NJ+07081",
+"latitude": "40.68469",
+"longitude": "-74.32209",
+"phoneNumber": "9737219621",
+"address": "243 US HIGHWAY 22",
+"city": "Springfield",
+"state": "NJ",
+"zip": "07081",
+"hasTextLeads": false,
+"hasPhoneLeads": true
+},
+"inventoryFlags": {
+"hideSpecialPrice": false,
+"hideAveragePrice": false,
+"hidePriceHistory": false,
+"showPriceDisclaimer": false
+},
+"showVhr": true
+},
+{
+"globalInventoryId": 104335627,
+"detailsUrl": "/vehicle/details/104335627",
+"soldDealerDetailsUrl": "/used-car-dealer/automotive-avenues-llc-farmingdale-nj-d654424/inventory/details/104335627",
+"sourceId": 3,
+"sourceExternalId": 78334285,
+"locationUrlString": "/cars-for-sale-in-farmingdale-nj-L108843",
+"sourceExternalUserId": 1004632,
+"responsivePrimaryImage": [
+{
+"width": "800",
+"url": "https://cdn05.carsforsale.com/0cc221bc08424993571f0b501ff4e6a6/800x600/2021-acura-tlx-sh-awd-w-tech-4dr-sedan-w-technology-package.jpg"
+},
+{
+"width": "480",
+"url": "https://cdn05.carsforsale.com/0cc221bc08424993571f0b501ff4e6a6/480x360/2021-acura-tlx-sh-awd-w-tech-4dr-sedan-w-technology-package.jpg"
+},
+{
+"width": "1280",
+"url": "https://cdn05.carsforsale.com/0cc221bc08424993571f0b501ff4e6a6/1280x960/2021-acura-tlx-sh-awd-w-tech-4dr-sedan-w-technology-package.jpg"
+}
+],
+"altText": "2021 Acura TLX for sale in Farmingdale, NJ",
+"forSaleBy": "Automotive Avenues LLC",
+"formattedDistance": "",
+"make": "Acura",
+"model": "TLX",
+"modelYear": 2021,
+"trim": "SH-AWD 4dr Sedan w/Technology Package",
+"estimatedMonthlyPayment": 431,
+"price": 28995,
+"maxLeadDistance": "",
+"condition": "Used",
+"mileage": "18,806",
+"avgPriceDiffAmount": -192,
+"avgMileageDiffAmount": -22511,
+"engine": "2.0L I4",
+"drivetrain": "AWD",
+"descriptionText":
+"Just arrived is this technologically cutting-edge, ONE-OWNER, OFF-LEASE, NONSMOKER, SUPER-HANDLING ALL-WHEEL DRIVE 2021
+Acura TLX with a Technology package! This compact luxury sedan boasts relaxed ride quality, a strong engine,
+upscale...", "daysListed": "3", "hasVideo": false, "dealer": { "globalUserId": 654424, "displayName": "Automotive
+Avenues LLC", "dealerProfileUrl": "/used-car-dealer/automotive-avenues-llc-farmingdale-nj-d654424", "addressSlug":"5011+Rt+33/Rt+34+Farmingdale+NJ+07727",
+"latitude": "40.21949",
+"longitude": "-74.13042",
+"phoneNumber": "8482060219",
+"address": "5011 Rt 33/Rt 34",
+"city": "Farmingdale",
+"state": "NJ",
+"zip": "07727",
+"hasTextLeads": false,
+"hasPhoneLeads": true
+},
+"inventoryFlags": {
+"hideSpecialPrice": false,
+"hideAveragePrice": false,
+"hidePriceHistory": false,
+"showPriceDisclaimer": false
+},
+"showVhr": true
+},
+{
+"globalInventoryId": 104319401,
+"detailsUrl": "/vehicle/details/104319401",
+"soldDealerDetailsUrl": "/used-car-dealer/autosavvy-woods-cross-woods-cross-ut-d721609/inventory/details/104319401",
+"sourceId": 3,
+"sourceExternalId": 78318051,
+"locationUrlString": "/cars-for-sale-in-woods-cross-ut-L129545",
+"sourceExternalUserId": 1017511,
+"responsivePrimaryImage": [
+{
+"width": "800",
+"url": "https://cdn05.carsforsale.com/00c6ba744bc7800e3e028809245e70785c/800x600/2020-acura-rdx-sh-awd-w-tech-4dr-suv-w-technology-package.jpg"
+},
+{
+"width": "480",
+"url": "https://cdn05.carsforsale.com/00c6ba744bc7800e3e028809245e70785c/480x360/2020-acura-rdx-sh-awd-w-tech-4dr-suv-w-technology-package.jpg"
+},
+{
+"width": "1280",
+"url": "https://cdn05.carsforsale.com/00c6ba744bc7800e3e028809245e70785c/1280x960/2020-acura-rdx-sh-awd-w-tech-4dr-suv-w-technology-package.jpg"
+}
+],
+"altText": "2020 Acura RDX for sale in Woods Cross, UT",
+"forSaleBy": "AutoSavvy Woods Cross",
+"formattedDistance": "",
+"make": "Acura",
+"model": "RDX",
+"modelYear": 2020,
+"trim": "SH-AWD 4dr SUV w/Technology Package",
+"estimatedMonthlyPayment": 396,
+"specialPrice": 26600,
+"price": 31625,
+"maxLeadDistance": "",
+"condition": "Used",
+"mileage": "26,763",
+"avgPriceDiffAmount": -1964,
+"avgMileageDiffAmount": -42074,
+"engine": "2.0L I4",
+"drivetrain": "AWD",
+"descriptionText": "AWD, Apple CarPlay, Exterior Parking Camera Rear, Front dual zone A/C, Fully automatic
+headlights, Heated Front Sport Seats, Lane departure: Lane Keeping Assist System (LKAS) active, Memory seat, Navigation
+system: Acura Navigation System with 3D Vi...", "daysListed": "3", "hasVideo": false, "dealer": { "globalUserId":721609,
+"displayName": "AutoSavvy Woods Cross",
+"dealerProfileUrl": "/used-car-dealer/autosavvy-woods-cross-woods-cross-ut-d721609",
+"addressSlug": "2023+South+625+West+Woods+Cross+UT+84087",
+"latitude": "40.87014",
+"longitude": "-111.8961",
+"phoneNumber": "3174893757",
+"address": "2023 South 625 West",
+"city": "Woods Cross",
+"state": "UT",
+"zip": "84087",
+"hasTextLeads": false,
+"hasPhoneLeads": true
+},
+"inventoryFlags": {
+"hideSpecialPrice": false,
+"hideAveragePrice": false,
+"hidePriceHistory": false,
+"showPriceDisclaimer": false
+},
+"showVhr": true
+},
+{
+"globalInventoryId": 104298524,
+"detailsUrl": "/vehicle/details/104298524",
+"soldDealerDetailsUrl": "/used-car-dealer/springfield-acura-springfield-nj-d219995/inventory/details/104298524",
+"sourceId": 3,
+"sourceExternalId": 78299520,
+"locationUrlString": "/cars-for-sale-in-springfield-nj-L125378",
+"sourceExternalUserId": 328834,
+"responsivePrimaryImage": [
+{
+"width": "800",
+"url": "https://cdn05.carsforsale.com/00ef8753da0393e210ce9cbbb266986f86/800x600/2020-acura-mdx-sh-awd-w-tech-4dr-suv-w-technology-package.jpg"
+},
+{
+"width": "480",
+"url": "https://cdn05.carsforsale.com/00ef8753da0393e210ce9cbbb266986f86/480x360/2020-acura-mdx-sh-awd-w-tech-4dr-suv-w-technology-package.jpg"
+},
+{
+"width": "1280",
+"url": "https://cdn05.carsforsale.com/00ef8753da0393e210ce9cbbb266986f86/1280x960/2020-acura-mdx-sh-awd-w-tech-4dr-suv-w-technology-package.jpg"
+}
+],
+"altText": "2020 Acura MDX for sale in Springfield, NJ",
+"forSaleBy": "SPRINGFIELD ACURA",
+"formattedDistance": "",
+"make": "Acura",
+"model": "MDX",
+"modelYear": 2020,
+"trim": "SH-AWD 4dr SUV w/Technology Package",
+"estimatedMonthlyPayment": 489,
+"specialPrice": 32878,
+"price": 33500,
+"maxLeadDistance": "",
+"condition": "Used",
+"mileage": "13,823",
+"avgPriceDiffAmount": 3282,
+"avgMileageDiffAmount": -58497,
+"engine": "3.5L V6",
+"drivetrain": "AWD",
+"descriptionText": "Platinum White Pearl exterior and Parchment interior, w/Technology Pkg trim. $900 below J.D.
+Power Retail! Heated Leather Seats,
+3rd Row Seat, NAV, Sunroof, Alloy Wheels, All Wheel Drive. KEY FEATURES
+INCLUDELeather Seats, Third Ro...", "daysListed": "4", "hasVideo": false, "dealer": { "globalUserId": 219995,"displayName": "SPRINGFIELD ACURA",
+"dealerProfileUrl": "/used-car-dealer/springfield-acura-springfield-nj-d219995",
+"addressSlug": "243+US+HIGHWAY+22+Springfield+NJ+07081",
+"latitude": "40.68469",
+"longitude": "-74.32209",
+"phoneNumber": "9737219621",
+"address": "243 US HIGHWAY 22",
+"city": "Springfield",
+"state": "NJ",
+"zip": "07081",
+"hasTextLeads": false,
+"hasPhoneLeads": true
+},
+"inventoryFlags": {
+"hideSpecialPrice": false,
+"hideAveragePrice": false,
+"hidePriceHistory": false,
+"showPriceDisclaimer": false
+},
+"showVhr": true
+},
+{
+"globalInventoryId": 104298253,
+"detailsUrl": "/vehicle/details/104298253",
+"soldDealerDetailsUrl": "/used-car-dealer/economy-auto-superstore-chattanooga-tn-d729839/inventory/details/104298253",
+"sourceId": 3,
+"sourceExternalId": 78299250,
+"locationUrlString": "/cars-for-sale-in-chattanooga-tn-L104708",
+"sourceExternalUserId": 1025727,
+"responsivePrimaryImage": [
+{
+"width": "800",
+"url": "https://cdn05.carsforsale.com/00c442d946fc26c50cc3685d297f0b1edc/800x600/2013-acura-tl-w-tech-4dr-sedan-w-technology-package.jpg"
+},
+{
+"width": "480",
+"url": "https://cdn05.carsforsale.com/00c442d946fc26c50cc3685d297f0b1edc/480x360/2013-acura-tl-w-tech-4dr-sedan-w-technology-package.jpg"
+},
+{
+"width": "1280",
+"url": "https://cdn05.carsforsale.com/00c442d946fc26c50cc3685d297f0b1edc/1280x960/2013-acura-tl-w-tech-4dr-sedan-w-technology-package.jpg"
+}
+],
+"altText": "2013 Acura TL for sale in Chattanooga, TN",
+"forSaleBy": "ECONOMY AUTO SUPERSTORE",
+"formattedDistance": "",
+"make": "Acura",
+"model": "TL",
+"modelYear": 2013,
+"trim": "4dr Sedan w/Technology Package",
+"estimatedMonthlyPayment": 225,
+"price": 12950,
+"maxLeadDistance": "",
+"condition": "Used",
+"mileage": "34,453",
+"avgPriceDiffAmount": 909,
+"avgMileageDiffAmount": -129878,
+"engine": "3.5L V6 280hp 254ft. lbs.",
+"drivetrain": "FWD",
+"descriptionText": "ONLY 34K MILES!... BLUETOOTH, BACKUP CAMERA, NAVIGATION, LEATHER, SUNROOF, HEATED SEATS, TL, 3.5L,
+ALL POWER, CRUISE CONTROL, PUSH START, SUPER CLEAN, AND MUCH MORE!... A MAJORITY OF OUR INVENTORY ARE INSURANCE VEHICLES
+WITH PREVIOUS ACCIDENT HISTOR...", "daysListed": "4", "hasVideo": false, "dealer": { "globalUserId": 729839,"displayName": "ECONOMY AUTO SUPERSTORE",
+"dealerProfileUrl": "/used-car-dealer/economy-auto-superstore-chattanooga-tn-d729839",
+"addressSlug": "6541+LEE+HWY+Chattanooga+TN+37421",
+"latitude": "35.03616",
+"longitude": "-85.1773",
+"phoneNumber": "4238050118",
+"address": "6541 LEE HWY",
+"city": "Chattanooga",
+"state": "TN",
+"zip": "37421",
+"hasTextLeads": false,
+"hasPhoneLeads": false
+},
+"inventoryFlags": {
+"hideSpecialPrice": true,
+"hideAveragePrice": true,
+"hidePriceHistory": true,
+"showPriceDisclaimer": true
+},
+"showVhr": true
+}
+]
